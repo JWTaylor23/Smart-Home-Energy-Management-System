@@ -49,6 +49,13 @@ This ensures safe and modular operation. The LLM operates as an advisory layer r
 ### Requirements
 - Python 3.9+
 
+### License 
+This project is licensed under the MIT License.
+
+### Author
+Joshua Taylor 
+
+
 ### Install dependencies
 ```bash
 pip install pandas transformers torch
